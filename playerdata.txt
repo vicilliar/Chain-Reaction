@@ -1,0 +1,6 @@
+0|Mr. Lobsters|red|1|7
+1|Dalandaniel|orange|8|2
+2|SpongeFred|yellow|4|4
+3|Green|green|4|2
+4|Kuyaneo|blue|1|4
+5|Borney The Dragon|purple|1|1
