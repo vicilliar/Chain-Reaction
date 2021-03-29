@@ -9,6 +9,5 @@ This was coded in Python, using the **Pyglet module.**
 Choose from 6 Parody characters! The Red Mr. Lobsters, Orange Dalandaniel, Yellow SpongeFred, Green Green, Blue Kuyaneo, and Purple Borney the Dragon!
 
 ## Where Do I Try It?
-Just click the "View Project on Github" button on top to try it out! 
-
-# THIS PROJECT IS DUE IN AN HOUR SAVE ME
+Download the files as a .zip, extract, and run main.py
+Make sure you have pyglet installed first! This is the graphics engine we used.
